@@ -20,7 +20,7 @@ public class FileStats {
     public static void main(String[] args) {
 
         // Create a file object to open poem.txt
-        File file = new File("C:\\Users\\alexkurcan\\Downloads\\poem.txt");
+        File file = new File("poem.txt");
         int characters = 0;
         int words = 0;
         int lines = 0;
